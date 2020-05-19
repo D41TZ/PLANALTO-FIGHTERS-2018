@@ -1,0 +1,29 @@
+		--Variaveis||sievairaV--
+-----------------------------------------------------------------
+a1- todas as escolhas de s/n
+
+p1/p2- (personagem1/2) personagem do jogador 1/2
+
+v1/v2- (vida1/2) vida dos personagens 1/2
+
+at1/at2- (atque1/2) definem qual ataque sera executado pelo
+	jogador 1/2 dependendo do personagem
+
+d1/d2- (dano1/2) a quantidade de dano que será dada pelo jogador
+	1/2
+
+c11/c12- (cooldown11/12) cooldown da habilidade 1/2 do jogador 1
+
+c21/c22- (cooldown21/22) cooldown da habilidade 1/2 do jogador 2
+
+turnos- precisa explicar? sera o contador de turnos
+
+p- (primeiro) definirá de quem é o turno
+
+pa1/pa2-(passiva1/2) contagem da passiva do jogador 1/2, que só 
+	pode ser ativada 1 vez
+
+i1/i2- (imunidade 1/2) tempo de imunidade do jogador 1/2
+
+contm- (contador da marina) um contador para determinar quando
+	sua passiva sera ativada
