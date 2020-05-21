@@ -672,7 +672,7 @@ int main () {
 				if (d1==0) {
 					HANDLE c = GetStdHandle( STD_OUTPUT_HANDLE );
 					SetConsoleTextAttribute(a, 159);
-					cout << "Voce usou sua passiva!\n\n";
+					cout << "Voce usou uma habilidade passiva!\n\n";
 					HANDLE d = GetStdHandle( STD_OUTPUT_HANDLE );
 					SetConsoleTextAttribute(d, 7);
 					system("pause");
@@ -930,7 +930,7 @@ int main () {
 				if (d2==0) {
 					HANDLE c = GetStdHandle( STD_OUTPUT_HANDLE );
 					SetConsoleTextAttribute(c, 159);
-					cout << "Você usou sua passiva!\n\n";
+					cout << "Você usou uma habilidade passiva!\n\n";
 					HANDLE d = GetStdHandle( STD_OUTPUT_HANDLE );
 					SetConsoleTextAttribute(d, 7);
 					system("pause");
